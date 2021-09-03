@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Todo ServiçoExterno</string>
+  <string name="servico_externo">Serviço Externo</string>
+  <string name="criar_servico">Criar Serviço</string>
+  <string name="titulo_do_servico">Título do Serviço</string>
+  <string name="descricao_do_servico">Descrição do serviço</string>
+  <string name="data_servico">Data</string>
+  <string name="cancelar">Cancelar</string>
+  <string name="botao_de_adicionar_uma_nova_tarefa">Botão de adicionar uma nova Tarefa</string>
+  <string name="menuitem_editar">Editar</string>
+  <string name="menuitem_deletar">Deletar</string>
+  <string name="voce_nao_possui_nenhum_servico_externo_para_realizar">Parece que você não possui nenhum serviço externo para realizar.</string>
+</resources>
